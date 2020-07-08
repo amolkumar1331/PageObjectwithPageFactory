@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="6762" started-at="2020-07-08T12:46:18Z" finished-at="2020-07-08T12:46:25Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="6762" started-at="2020-07-08T12:46:18Z" finished-at="2020-07-08T12:46:25Z">
+      <class name="TestCases.HomeTest">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:TestCases.HomeTest@850ada13]" name="launchBrowser" is-config="true" duration-ms="14664" started-at="2020-07-08T18:16:03Z" finished-at="2020-07-08T18:16:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="Validatetitle()[pri:0, instance:TestCases.HomeTest@850ada13]" name="Validatetitle" duration-ms="25" started-at="2020-07-08T18:16:18Z" finished-at="2020-07-08T18:16:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validatetitle -->
+        <test-method status="PASS" signature="validateURL()[pri:0, instance:TestCases.HomeTest@850ada13]" name="validateURL" duration-ms="14" started-at="2020-07-08T18:16:19Z" finished-at="2020-07-08T18:16:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateURL -->
+        <test-method status="PASS" signature="m1()[pri:0, instance:TestCases.HomeTest@850ada13]" name="m1" duration-ms="4974" started-at="2020-07-08T18:16:19Z" finished-at="2020-07-08T18:16:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m1 -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:TestCases.HomeTest@850ada13]" name="closeBrowser" is-config="true" duration-ms="3178" started-at="2020-07-08T18:16:25Z" finished-at="2020-07-08T18:16:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- TestCases.HomeTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
